@@ -1,4 +1,4 @@
-<img src ="https://github.com/AnkitParte/AnkitParte/blob/main/parte-github-header-image.png" width="100%"/>
+<img src ="https://github.com/AnkitParte/AnkitParte/blob/main/one-github-header-image%20(1).png"/>
 <h3 align="justify">Hey! I am student who is passionate about developing user-friendly software
 applications. Flexible, always open to learn and a solution oriented guy. Willing to contribute
 to an organization as a software engineer, as well as grow and develop my own skills as a coder.</h3>
