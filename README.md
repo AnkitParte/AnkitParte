@@ -9,13 +9,13 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 - 🌱 I’m proficient in <b> HTML CSS JavaScript & MongoDB ExpressJD ReactJS NodeJS </b>
 
-- 👨‍💻 All of my projects are available at [https://ankitparte.github.io/](https://ankitparte.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ankitparte.github.io/)
 
 - 💬 Ask me about <b>MERN Stack</b>
 
 - 📫 Contact me **ankitparte80@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YkoF3laVUdAXOg66mobMzcleRKygIqlQ/view]
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1YkoF3laVUdAXOg66mobMzcleRKygIqlQ/view)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=AnkitParte" alt="AnkitParte" /></a>
