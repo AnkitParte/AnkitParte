@@ -41,3 +41,9 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 <a href="https://github.com/AnkitParte/github-readme-activity-graph"><img alt="AnkitParte's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnkitParte&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
+![](https://github-readme-stats.vercel.app/api?username=AnkitParte&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnkitParte&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitParte&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![Ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnkitParte&theme=rogue)](https://github.com/AnkitParte/github-readme-activity-graph)
+
+[![](https://visitcount.itsvg.in/api?id=AnkitParte&icon=5&color=12)](https://visitcount.itsvg.in)
