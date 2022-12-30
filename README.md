@@ -7,7 +7,7 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 ## Fun Fact 🎈:
 
-- 🌱 I’m proficient in <b> HTML CSS JavaScript & MongoDB ExpressJD ReactJS NodeJS </b>
+- 🌱 I’m proficient in <b> HTML ,CSS ,JavaScript ,MongoDB ,ExpressJS ,ReactJS & NodeJS </b>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ankitparte.github.io/)
 
