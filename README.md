@@ -15,7 +15,7 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 - 📫 Contact me **ankitparte80@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1YkoF3laVUdAXOg66mobMzcleRKygIqlQ/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1nsLv_PYLEvo-8mmyIpabfNTzLMjD65Tm/view?usp=sharing)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=AnkitParte" alt="AnkitParte" /></a>
